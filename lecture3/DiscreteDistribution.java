@@ -11,7 +11,7 @@ public class DiscreteDistribution {
 		// for (int x = 0; x < s.length; x++) {System.out.println(s[x] + " ");}
 		for (int j = 0; j < m; j++) {
 			int i = 0;
-			int r = (int) (Math.random() * (s[s.length-1] - 1));
+			int r = (int) (Math.random() * (s[s.length-1]));
 			for (int k = 1; k < s.length; k++) {
 				if (r >= s[k-1] && r < s[k]) {
 					i = k;
