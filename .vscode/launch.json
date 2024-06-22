@@ -1,0 +1,162 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "args": "3 0"
+        },
+        {
+            "type": "java",
+            "name": "ActivationFunction",
+            "request": "launch",
+            "mainClass": "ActivationFunction",
+            "projectName": "coursera-princeton-cs_6dab30b9"
+        },
+        {
+            "type": "java",
+            "name": "AudioCollage",
+            "request": "launch",
+            "mainClass": "AudioCollage",
+            "projectName": "coursera-princeton-cs_6dab30b9"
+        },
+        {
+            "type": "java",
+            "name": "BandMatrix",
+            "request": "launch",
+            "mainClass": "BandMatrix",
+            "projectName": "coursera-princeton-cs_6dab30b9"
+        },
+        {
+            "type": "java",
+            "name": "Birthday",
+            "request": "launch",
+            "mainClass": "Birthday",
+            "projectName": "coursera-princeton-cs_6dab30b9"
+        },
+        {
+            "type": "java",
+            "name": "CMYKtoRGB",
+            "request": "launch",
+            "mainClass": "CMYKtoRGB",
+            "projectName": "coursera-princeton-cs_6dab30b9"
+        },
+        {
+            "type": "java",
+            "name": "Checkerboard",
+            "request": "launch",
+            "mainClass": "Checkerboard",
+            "projectName": "coursera-princeton-cs_6dab30b9"
+        },
+        {
+            "type": "java",
+            "name": "DiscreteDistribution",
+            "request": "launch",
+            "mainClass": "DiscreteDistribution",
+            "projectName": "coursera-princeton-cs_6dab30b9"
+        },
+        {
+            "type": "java",
+            "name": "Divisors",
+            "request": "launch",
+            "mainClass": "Divisors",
+            "projectName": "coursera-princeton-cs_6dab30b9"
+        },
+        {
+            "type": "java",
+            "name": "GeneralizedHarmonic",
+            "request": "launch",
+            "mainClass": "GeneralizedHarmonic",
+            "projectName": "coursera-princeton-cs_6dab30b9"
+        },
+        {
+            "type": "java",
+            "name": "GreatCircle",
+            "request": "launch",
+            "mainClass": "GreatCircle",
+            "projectName": "coursera-princeton-cs_6dab30b9"
+        },
+        {
+            "type": "java",
+            "name": "HelloGoodbye",
+            "request": "launch",
+            "mainClass": "HelloGoodbye",
+            "projectName": "coursera-princeton-cs_6dab30b9"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "coursera-princeton-cs_6dab30b9"
+        },
+        {
+            "type": "java",
+            "name": "Minesweeper",
+            "request": "launch",
+            "mainClass": "Minesweeper",
+            "projectName": "coursera-princeton-cs_6dab30b9"
+        },
+        {
+            "type": "java",
+            "name": "RandomWalker",
+            "request": "launch",
+            "mainClass": "RandomWalker",
+            "projectName": "coursera-princeton-cs_6dab30b9"
+        },
+        {
+            "type": "java",
+            "name": "RandomWalkers",
+            "request": "launch",
+            "mainClass": "RandomWalkers",
+            "projectName": "coursera-princeton-cs_6dab30b9"
+        },
+        {
+            "type": "java",
+            "name": "RightTriangle",
+            "request": "launch",
+            "mainClass": "RightTriangle",
+            "projectName": "coursera-princeton-cs_6dab30b9"
+        },
+        {
+            "type": "java",
+            "name": "ShannonEntropy",
+            "request": "launch",
+            "mainClass": "ShannonEntropy",
+            "projectName": "coursera-princeton-cs_6dab30b9"
+        },
+        {
+            "type": "java",
+            "name": "ThueMorse",
+            "request": "launch",
+            "mainClass": "ThueMorse",
+            "projectName": "coursera-princeton-cs_6dab30b9"
+        },
+        {
+            "type": "java",
+            "name": "TrinomialBrute",
+            "request": "launch",
+            "mainClass": "TrinomialBrute",
+            "projectName": "coursera-princeton-cs_6dab30b9"
+        },
+        {
+            "type": "java",
+            "name": "TrinomialDP",
+            "request": "launch",
+            "mainClass": "TrinomialDP",
+            "projectName": "coursera-princeton-cs_6dab30b9"
+        },
+        {
+            "type": "java",
+            "name": "WorldMap",
+            "request": "launch",
+            "mainClass": "WorldMap",
+            "projectName": "coursera-princeton-cs_6dab30b9"
+        }
+    ]
+}
